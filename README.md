@@ -1,2 +1,2 @@
-# c37_correcto-alumno
-archivos probados c37 correcto alumno abril 22
+# Actividad de la maestra 1_C38_Código Boilerplate
+Actividad de la maestra
